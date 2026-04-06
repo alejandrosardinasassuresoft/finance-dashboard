@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "WebSearch",
+      "WebFetch(domain:muz.li)",
+      "WebFetch(domain:www.designstudiouiux.com)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:uxpilot.ai)",
+      "WebFetch(domain:merge.rocks)",
+      "WebFetch(domain:adamfard.com)",
+      "WebFetch(domain:newzilo.com)",
+      "WebFetch(domain:superdevresources.com)",
+      "WebFetch(domain:www.eleken.co)",
+      "WebFetch(domain:produkto.io)",
+      "WebFetch(domain:phenomenonstudio.com)",
+      "WebFetch(domain:uisea.net)",
+      "WebFetch(domain:goodface.agency)",
+      "WebFetch(domain:ilovehue.co)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:www.jpnfintech.com)"
+    ]
+  }
+}
